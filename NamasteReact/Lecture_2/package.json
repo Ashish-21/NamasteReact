@@ -1,0 +1,14 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "Lecture second of namaste react",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Ashish-21",
+  "license": "ISC"
+}
