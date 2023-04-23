@@ -1,22 +1,25 @@
 {
-  "name": "namaste_react",
-  "version": "1.0.0",
-  "description": "Lecture second of namaste react",
-  "main": "App.js",
-  "scripts": {
-    "test": "jest"
-  },
-  "keywords": [
-    "React"
-  ],
-  "author": "Ashish-21",
-  "license": "ISC",
-  "devDependencies": {
-    "parcel": "^2.8.3",
-    "process": "^0.11.10"
-  },
-  "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
-  }
+	"name": "namaste_react",
+	"version": "1.0.0",
+	"description": "Lecture second of namaste react",
+	"main": "App.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"keywords": [
+		"React"
+	],
+	"author": "Ashish-21",
+	"license": "ISC",
+	"browerslist": [
+		"last 2 versions"
+	],
+	"devDependencies": {
+		"parcel": "^2.8.3",
+		"process": "^0.11.10"
+	},
+	"dependencies": {
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0"
+	}
 }
