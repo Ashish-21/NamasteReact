@@ -25,5 +25,5 @@ const parent = React.createElement("div", { id: "parent" }, [
 // );
 //console.log(heading);
 const root = ReactDOM.createRoot(document.getElementById("root"));
-console.log(root);
+
 root.render(parent);
